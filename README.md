@@ -9,6 +9,8 @@
 
 - ✉️ Contact me: E-mail: alvarezanbl@gmail.com
 
+Check the proyects I worked on my pinneds.
+
 Journey before destination.
 
 <br/>
