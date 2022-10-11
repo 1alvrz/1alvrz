@@ -7,16 +7,10 @@
 
 - 🌐 Languages: Spanish (Native), English level: advanced intermediate (FCE).
 
-- 🧑 Soft skills: Proactive, Cooperative, Emphatic, Adaptavility, Agile Mindset.
-
-You can know more about me on the links below! 
-🔲 Git-hub: https://github.com/1alvrz
-
-✉️ Feel free to send me a message: E-mail: alvarezanbl@gmail.com
+- ✉️ Contact me: E-mail: alvarezanbl@gmail.com
 
 Journey before destination.
 
-Have a good day!
 <br/>
 
 LinkedIn
