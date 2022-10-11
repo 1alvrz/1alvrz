@@ -1,6 +1,22 @@
 ## Hello World 👋 It's Anibal!
-I'm a Javascript developer with my ♥ in [React](https://reactjs.org).
+<h3 align='center'>I'm a JavaScript developer living in Argentina.<h3>
 
+- 👨‍💻 ReactJS, ExpressJS and Javascript.
+
+- 🌱 I'm interested in learning new technologies or programming languages like TypeScript, ReactNative and Python.
+
+- 🌐 Languages: Spanish (Native), English level: advanced intermediate (FCE).
+
+- 🧑 Soft skills: Proactive, Cooperative, Emphatic, Adaptavility, Agile Mindset.
+
+You can know more about me on the links below! 
+🔲 Git-hub: https://github.com/1alvrz
+
+✉️ Feel free to send me a message: E-mail: alvarezanbl@gmail.com
+
+Journey before destination.
+
+Have a good day!
 <br/>
 
 LinkedIn
@@ -10,7 +26,8 @@ LinkedIn
 
 <br/>
 
-# 👨‍🔬 Tech Stack & Knowledges:
+
+# Tech Stack & Knowledges:
 - Languages:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 - Frontend:   
