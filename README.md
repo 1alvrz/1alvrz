@@ -3,9 +3,12 @@ I'm a Javascript developer with my ♥ in [React](https://reactjs.org).
 
 <br/>
 
+LinkedIn
 <a href="https://linkedin.gonzalopozzo.com">
 <img align="left" alt="Anibal Alvarez LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
+
+<br/>
 
 # 👨‍🔬 Tech Stack & Knowledges:
 - Languages:  
