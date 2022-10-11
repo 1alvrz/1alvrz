@@ -5,7 +5,7 @@
 
 - 🌱 I'm interested in learning new technologies or programming languages like TypeScript, ReactNative and Python.
 
-- 🌐 Languages: Spanish (Native), English level: advanced intermediate (FCE).
+- 🌐 Languages: Spanish, English.
 
 - ✉️ Contact me: E-mail: alvarezanbl@gmail.com
 
